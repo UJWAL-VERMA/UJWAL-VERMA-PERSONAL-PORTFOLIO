@@ -14,19 +14,6 @@
     padding:0;
     box-sizing:border-box;
 }
-html,
-body{
-    overflow-x:hidden;
-}
-
-
-
-
-
-
-.hero-image{
-    overflow:hidden;
-}
 
 
 /*======================================================
@@ -2468,4 +2455,15 @@ body{
 
     animation:cursorRotate 8s linear infinite;
 
+}
+
+
+
+
+html,
+body{
+    overflow-x:hidden;
+}
+.hero-image{
+    overflow:hidden;
 }
